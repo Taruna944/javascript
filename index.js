@@ -17,3 +17,11 @@ console.log(sum);
 console.log(difference);
 console.log(product);
 console.log(quotient);
+
+//here is the declering the variable using const 
+
+const count = 0; // declered the variable count and assign the value 0;
+
+// count =  1; // this will give , in const we cant reassign the value 
+
+
